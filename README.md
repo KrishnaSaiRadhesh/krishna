@@ -1,0 +1,2 @@
+# krishna
+Qr code scanner
